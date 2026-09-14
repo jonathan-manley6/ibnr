@@ -1,0 +1,8 @@
+[project]
+name = "ibnr"
+version = "3.2.0"
+description = "Unpaid medical claims reserve for the actuarial team's monthly valuation"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = ["ibnr"]
